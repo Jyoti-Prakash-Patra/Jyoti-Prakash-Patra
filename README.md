@@ -18,9 +18,9 @@
 
 - 💬 Ask me about **Version control with Git and GitHub.**
 
-- 📫 How to reach me **speak2jyotiprakash@gmail.com**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Speak-2jyoti](https://github.com/Speak-2jyoti)
+
+- 📫 How to reach me **speak2jyotiprakash@gmail.com**
 
 - ⚡ Fun fact **When I'm not coding, you'll probably find me exploring new tech trends.**
 
