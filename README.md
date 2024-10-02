@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Version control with Git and GitHub.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Jyoti-Prakash-Patra](https://github.com/Jyoti-Prakash_patra)
+- 👨‍💻 All of my projects are available at [https://github.com/Jyoti-Prakash-Patra](https://github.com/Jyoti-Prakash_Patra)
 
 - 📫 How to reach me **jyotiprakashpatra003@gmail.com**
 
