@@ -6,7 +6,7 @@
 
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=speak-2jyoti&label=Profile%20views&color=0e75b6&style=flat" alt="speak-2jyoti" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jyoti-Prakash-Patra&label=Profile%20views&color=0e75b6&style=flat" alt="Jyoti-Prakash-Patra" /> </p>
 
 - 🔭 I’m currently working on **Exploring full-stack development.**
 
@@ -18,15 +18,15 @@
 
 - 💬 Ask me about **Version control with Git and GitHub.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Speak-2jyoti](https://github.com/Speak-2jyoti)
+- 👨‍💻 All of my projects are available at [https://github.com/Jyoti-Prakash-Patra](https://github.com/Jyoti-Prakash_patra)
 
-- 📫 How to reach me **speak2jyotiprakash@gmail.com**
+- 📫 How to reach me **jyotiprakashpatra003@gmail.com**
 
 - ⚡ Fun fact **When I'm not coding, you'll probably find me exploring new tech trends.**
 
 <br><br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=speak-2jyoti" alt="speak-2jyoti" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jyoti-Prakash-Patra" alt="Jyoti-Prakash-Patra" /></a> </p>
 <br>
 
 <h3 align="left">Connect with me:</h3>
@@ -44,8 +44,8 @@
 <br>
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=speak-2jyoti&show_icons=true&locale=en&layout=compact" alt="speak-2jyoti" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jyoti-Prakash-Patra&show_icons=true&locale=en&layout=compact" alt="Jyoti-Prakash-Patra" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=speak-2jyoti&show_icons=true&locale=en" alt="speak-2jyoti" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jyoti-Prakash-Patra&show_icons=true&locale=en" alt="Jyoti-Prakash-Patra" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=speak-2jyoti&" alt="speak-2jyoti" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jyoti-Prakash-Patra&" alt="Jyoti-Prakash-Patra" /></p>
